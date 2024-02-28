@@ -4,13 +4,5 @@
         <members>TestLabel__c</members>
         <name>CustomObject</name>
     </types>
-    <types>
-        <members>TestLabel__c-TestLabel Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>TestLabel__c</members>
-        <name>SharingRules</name>
-    </types>
     <version>60.0</version>
 </Package>
